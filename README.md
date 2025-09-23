@@ -1,9 +1,10 @@
-Smart Plant Monitor Overview 
+Smart Plant Monitor Overview: 
 The Smart Plant Monitor is a simple, portable device that helps keep plants healthy by monitoring soil moisture and sunlight levels. It uses sensors to collect environmental data and provides real-time feedback through an RGB LED. A rotary encoder allows users to adjust settings, such as the moisture threshold for watering alerts. The goal of this project is to make plant care easier and more reliable.
 
-Team Members 
-Rachel Romeo
-Hailey Horvath
+Team Members:
+
+Rachel Romeo,
+Hailey Horvath,
 Adrian Szurlej
 
 Features
