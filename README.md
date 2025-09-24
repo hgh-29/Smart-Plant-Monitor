@@ -11,7 +11,7 @@ The **Smart Plant Monitor** is a simple, portable device that helps keep plants 
 ## Features
 - **Soil Moisture Sensor** – Detects when the soil is too dry.  
 - **Light Sensor (LDR)** – Measures the intensity of sunlight reaching the plant.  
-- **RGB LED** – Displays visual status feedback (e.g., green = good, red = dry, blue = low light).  
+- **RGB LED** – Displays visual status feedback (e.g., green = good, red = dry, blue = needs more light).  
 - **Rotary Encoder** – Allows the user to adjust moisture sensitivity or other settings.  
 - **Microcontroller (Arduino)** – Processes input from sensors and controls the LED output.  
 - **Portable Power** – Battery-powered design makes it easy to move between plants.  
