@@ -16,7 +16,7 @@ The **Smart Plant Monitor** is a simple, portable device that helps keep plants 
 - **Portable Power** – Battery-powered design makes it easy to move between plants.  
 
 ## Hardware Components
-- 1x Arduino Uno/Nano (or compatible board)  
+- 1x Arduino Mega   
 - 1x Capacitive Soil Moisture Sensor Module  
 - 1x Light Sensor (Photoresistor with resistor divider)  
 - 1x RGB LED (common cathode or anode)  
