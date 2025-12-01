@@ -6,7 +6,6 @@ The **Smart Plant Monitor** is a simple, portable device that helps keep plants 
 ## Team Members
 - Rachel Romeo  
 - Hailey Horvath  
-- Adrian Szurlej  
 
 ## Features
 - **Soil Moisture Sensor** – Detects when the soil is too dry.  
