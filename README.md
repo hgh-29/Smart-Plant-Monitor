@@ -1,7 +1,7 @@
 # 🌱 Smart Plant Monitor
 
 ## Overview
-The **Smart Plant Monitor** is a simple, portable device that helps keep plants healthy by monitoring soil moisture and sunlight levels. It uses sensors to collect environmental data and provides real-time feedback through an **RGB LED**. A **rotary encoder** allows users to adjust settings, such as the moisture threshold for watering alerts. The goal of this project is to make plant care easier and more reliable.
+The **Smart Plant Monitor** is a simple, portable device that helps keep plants healthy by monitoring soil moisture and sunlight levels. It uses sensors to collect environmental data and provides real-time feedback through an **RGB LED**. A **keypad** allows users to adjust settings, such as the moisture threshold for watering alerts. The goal of this project is to make plant care easier and more reliable.
 
 ## Team Members
 - Rachel Romeo  
@@ -11,8 +11,8 @@ The **Smart Plant Monitor** is a simple, portable device that helps keep plants 
 - **Soil Moisture Sensor** – Detects when the soil is too dry.  
 - **Light Sensor (LDR)** – Measures the intensity of sunlight reaching the plant.  
 - **RGB LED** – Displays visual status feedback (e.g., green = good, red = dry, blue = needs more light).  
-- **Rotary Encoder** – Allows the user to adjust moisture sensitivity or other settings.  
-- **Microcontroller (Arduino)** – Processes input from sensors and controls the LED output.  
+- **4x4 Keypad** – Allows the user to adjust moisture sensitivity or other settings.  
+- **Microcontroller (Arduino Mega)** – Processes input from sensors and controls the LED output.  
 - **Portable Power** – Battery-powered design makes it easy to move between plants.  
 
 ## Hardware Components
@@ -20,7 +20,7 @@ The **Smart Plant Monitor** is a simple, portable device that helps keep plants 
 - 1x Capacitive Soil Moisture Sensor Module  
 - 1x Light Sensor (Photoresistor with resistor divider)  
 - 1x RGB LED (common cathode or anode)  
-- 1x Rotary Encoder  
+- 1x 4x4 Keypad
 - Jumper wires  
 - Breadboard  
 - Battery pack / USB power source  
