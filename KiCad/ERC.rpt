@@ -1,0 +1,17 @@
+ERC report (2025-12-10T14:33:04-0500, Encoding UTF8)
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(38.10 mm, 77.47 mm): Symbol #PWR09 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(88.90 mm, 190.50 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[missing_unit]: Symbol SW1 has unplaced units [ Unit B ]
+    ; warning
+    @(247.65 mm, 134.62 mm): Symbol SW1 [SW_DPST_x2]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(252.73 mm, 132.08 mm): Symbol J5 Pin A9 [VBUS, Power input, Line]
+
+ ** ERC messages: 4  Errors 3  Warnings 1
