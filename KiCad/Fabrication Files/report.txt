@@ -1,0 +1,24 @@
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-F_Cu.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-B_Cu.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-F_Paste.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-B_Paste.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-F_Mask.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-B_Mask.gbr'.
+Plotted to 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Tripl\Downloads\ECET230 Smart Plant Monitor-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-F_Cu.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-B_Cu.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-F_Paste.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-B_Paste.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-F_Mask.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-B_Mask.gbr'.
+Plotted to 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Tripl\OneDrive\Documents\KiCad\PhoneCharger\ECET230 Smart Plant Monitor\ECET-230 Smart Plant Monitor\KiCad\ECET230 Smart Plant Monitor-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
